@@ -1,0 +1,31 @@
+# Vivado & Simulation files to ignore
+*.log
+*.jou
+*.vcd
+*.wdb
+*.pb
+*.xml
+*.bin
+*.str
+*.bak
+*.restore
+*.zip
+*.tmp
+*.backup
+
+# Vivado folders
+.sim/
+.cache/
+.hw/
+.runs/
+.xpr/
+.xgui/
+.ip_user_files/
+.sdk/
+.webtalk/
+xsim.dir/
+vivado*.*
+
+# System files
+*.DS_Store
+Thumbs.db
