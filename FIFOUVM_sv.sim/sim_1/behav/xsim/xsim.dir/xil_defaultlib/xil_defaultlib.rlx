@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+H:/Vivado project/FIFOUVM_sv/FIFOUVM_sv.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+,,,,,,fifo_if,,,,,,,,
+,,,H:/Vivado project/FIFOUVM_sv/FIFOUVM_sv.srcs/sources_1/new/FIFO.sv,,,fifo_pkg,,,,,,,,
+H:/Vivado project/FIFOUVM_sv/FIFOUVM_sv.srcs/sim_1/new/fifo_tb.sv,1750358682,systemVerilog,,,,$unit_fifo_tb_sv;tb,,uvm,../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+H:/Vivado project/FIFOUVM_sv/FIFOUVM_sv.srcs/sources_1/new/FIFO.sv,1750354797,systemVerilog,H:/Vivado project/FIFOUVM_sv/FIFOUVM_sv.srcs/sim_1/new/fifo_if.sv,H:/Vivado project/FIFOUVM_sv/FIFOUVM_sv.srcs/sim_1/new/fifo_tb.sv,,$unit_FIFO_sv_1982914653,,uvm,../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
